@@ -48,7 +48,7 @@ public class FileUpload {
 		}
 		
 		
-//        driver.close();
+        driver.close();
 		
 		
 	}
